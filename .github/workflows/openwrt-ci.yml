@@ -825,7 +825,6 @@ jobs:
           CONFIG_PACKAGE_kmod-ath10k=y
           CONFIG_ATH10K_LEDS=y
           CONFIG_ATH10K_THERMAL=y
-          CONFIG_PACKAGE_kmod-ath11k=y
           CONFIG_PACKAGE_kmod-ath5k=y
           CONFIG_PACKAGE_kmod-ath6kl=y
           CONFIG_PACKAGE_kmod-ath6kl-sdio=y
@@ -1037,7 +1036,6 @@ jobs:
           CONFIG_WPA_WOLFSSL=y
           CONFIG_DRIVER_11N_SUPPORT=y
           CONFIG_DRIVER_11AC_SUPPORT=y
-          CONFIG_DRIVER_11AX_SUPPORT=y
           CONFIG_PACKAGE_wpad-basic-wolfssl=y
           CONFIG_PACKAGE_etherwake=y
           CONFIG_PACKAGE_ethtool=y
